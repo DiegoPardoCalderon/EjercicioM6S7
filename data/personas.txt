@@ -1,1 +1,1 @@
-[[{"rut":"12345678-5","nombre":"Juan","apellido":"Ramírez"}]]
+[[{"rut":"12345678-9","nombre":"David","apellido":"Lopez"}],[{"rut":"13694317-0","nombre":"David","apellido":"Lopez"}],[{"rut":"12345678-9","nombre":"David","apellido":"Lopez"}]]
